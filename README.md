@@ -1,5 +1,7 @@
 # CS2 Fullbright Demonstration
 
+## mat_fullbright -1
+![mat_fullbright -1](https://github.com/bigfinfrank/mat_fullbright/blob/main/screenshots/mat_fullbright%20-1.png?raw=true)
 ## mat_fullbright 0
 ![mat_fullbright 0](https://github.com/bigfinfrank/mat_fullbright/blob/main/screenshots/mat_fullbright%200.png?raw=true)
 ## mat_fullbright 1
